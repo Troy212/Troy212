@@ -4,7 +4,7 @@ Studying MBA At WBSU<br>CS Engineer<br>AI Music Artist<br>Games<br>Content Creat
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/troy_mytho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/troy_mytho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-32989a325/)
- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Troy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mredm1271)
+ [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/mythlive769/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mredm1271)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://www.youtube.com/@mredm1271))](mailto:dassrinjoy2003@gmail.com) 
 
 # 💻 Tech Stack:

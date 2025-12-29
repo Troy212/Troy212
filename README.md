@@ -1,5 +1,8 @@
-# 💫 About Me:
-Studying MBA At WBSU<br>CS Engineer<br>AI Music Artist<br>Games<br>Content Creator<br>Founder Of Soundify<br>
+## 💫 About Me
+🎓 MBA @ WBSU | 💻 CS Engineer  
+🤖 AI Music Artist | 🎮 Gamer  
+🎥 Content Creator | 🚀 Founder of Soundify
+
 
 
 ## 🌐 Socials:
